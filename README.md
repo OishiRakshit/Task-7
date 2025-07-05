@@ -9,7 +9,6 @@ To identify, assess, and remove potentially harmful or unnecessary browser exten
 - **Extension/Add-ons Manager**
 - **Extension review websites** (e.g., Chrome Web Store, Mozilla Add-ons)
 
----
 
 ## 🗑️ Suspicious Extensions Removed
 
@@ -18,11 +17,9 @@ To identify, assess, and remove potentially harmful or unnecessary browser exten
 | Video Downloader X | Unused, had excessive permissions.          |
 | PDF Converter Pro  | Poor reviews and suspicious behavior.       |
 
----
 
 ## ✅ Outcome
 
 - Gained awareness of browser security threats from extensions.
 - Improved browser performance and security posture.
 
----

@@ -3,7 +3,6 @@
 ## 🎯 Objective
 To identify, assess, and remove potentially harmful or unnecessary browser extensions to enhance browser security and performance.
 
----
 
 ## 🛠️ Tools Used
 - **Web Browser**: Google Chrome
